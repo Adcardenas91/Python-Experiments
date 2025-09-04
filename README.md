@@ -12,4 +12,5 @@ My data science competencies include:
   <li>An affinity for solving complex problems.</li>
 </ul>
 In order to test the inclusion of a photograph, I've included a photo of me in peak form at the tender age of six:
-!([00-pdR39F-Nso6mDAs1RRZSzSBnnRLwz7o_Ugjk5aGu8b6Sxu2dbPV_zvJ_Wk1yfasJ.jpg](https://github.com/Adcardenas91/Python-Experiments/blob/c23e42f3f898623c369dfae3db19a24b66506a4e/00-pdR39F-Nso6mDAs1RRZSzSBnnRLwz7o_Ugjk5aGu8b6Sxu2dbPV_zvJ_Wk1yfasJ.jpg))
+
+![00-pdR39F-Nso6mDAs1RRZSzSBnnRLwz7o_Ugjk5aGu8b6Sxu2dbPV_zvJ_Wk1yfasJ.jpg](https://github.com/Adcardenas91/Python-Experiments/blob/c23e42f3f898623c369dfae3db19a24b66506a4e/00-pdR39F-Nso6mDAs1RRZSzSBnnRLwz7o_Ugjk5aGu8b6Sxu2dbPV_zvJ_Wk1yfasJ.jpg)
